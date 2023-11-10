@@ -1,0 +1,21 @@
+[33mCMake Warning at CMakeLists.txt:119 (find_package):
+  Could not find a configuration file for package "realsense2" that is
+  compatible with requested version "2.54.1".
+
+  The following configuration files were considered but not accepted:
+
+    /usr/local/lib/cmake/realsense2/realsense2Config.cmake, version: 2.53.1
+
+
+[0m
+[31mCMake Error at CMakeLists.txt:121 (message):
+  
+
+  
+
+   Intel RealSense SDK 2.0 is missing, please install it from https://github.com/IntelRealSense/librealsense/releases
+
+  
+
+
+[0m

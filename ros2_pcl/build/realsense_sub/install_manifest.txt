@@ -1,0 +1,15 @@
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/ament_index/resource_index/package_run_dependencies/realsense_sub
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/ament_index/resource_index/parent_prefix_path/realsense_sub
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/environment/ament_prefix_path.sh
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/environment/ament_prefix_path.dsv
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/environment/path.sh
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/environment/path.dsv
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/local_setup.bash
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/local_setup.sh
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/local_setup.zsh
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/local_setup.dsv
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/package.dsv
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/ament_index/resource_index/packages/realsense_sub
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/cmake/realsense_subConfig.cmake
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/cmake/realsense_subConfig-version.cmake
+/home/duang/Code/pcl/ros2_pcl/install/realsense_sub/share/realsense_sub/package.xml

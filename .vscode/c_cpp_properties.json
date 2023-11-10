@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/pcl-1.13/", // PCL 的包含路径
+                "/usr/include/eigen3", // Eigen 库的包含路径
+                "/usr/local/include/librealsense2", // RealSense SDK 的包含路径
+                "/usr/local/include/opencv4",
+                "/usr/local/include/opencv4/opencv2"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/usr/local/include/librealsense2" // RealSense SDK 的包含路径
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,4 @@
+Invoking command in '/home/duang/Code/pcl/ros2_pcl/build/realsense_sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/duang/Code/pcl/ros2_pcl/build/realsense_sub -- -j12 -l12
+Invoked command in '/home/duang/Code/pcl/ros2_pcl/build/realsense_sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/duang/Code/pcl/ros2_pcl/build/realsense_sub -- -j12 -l12
+Invoking command in '/home/duang/Code/pcl/ros2_pcl/build/realsense_sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/duang/Code/pcl/ros2_pcl/build/realsense_sub
+Invoked command in '/home/duang/Code/pcl/ros2_pcl/build/realsense_sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/duang/Code/pcl/ros2_pcl/build/realsense_sub

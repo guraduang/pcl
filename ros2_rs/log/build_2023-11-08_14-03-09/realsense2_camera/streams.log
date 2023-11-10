@@ -1,0 +1,38 @@
+[0.102s] Invoking command in '/home/duang/Code/pcl/ros2_rs/build/realsense2_camera': AMENT_PREFIX_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/duang/Code/pcl/ros2_rs/src/realsense-ros/realsense2_camera -DCMAKE_INSTALL_PREFIX=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera
+[0.115s] -- Create Release Build.
+[0.115s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.264s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.287s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.289s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.295s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.306s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.321s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.335s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[0.550s] -- Found image_transport: 3.1.7 (/opt/ros/humble/share/image_transport/cmake)
+[0.602s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.603s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.708s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.894s] -- Found rclcpp_components: 16.0.6 (/opt/ros/humble/share/rclcpp_components/cmake)
+[0.952s] -- Found realsense2_camera_msgs: 4.54.1 (/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs/share/realsense2_camera_msgs/cmake)
+[1.061s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.149s] -- Found tf2_ros: 0.25.4 (/opt/ros/humble/share/tf2_ros/cmake)
+[1.428s] [31mCMake Error at CMakeLists.txt:117 (find_package):
+[1.428s]   By not providing "Finddiagnostic_updater.cmake" in CMAKE_MODULE_PATH this
+[1.428s]   project has asked CMake to find a package configuration file provided by
+[1.428s]   "diagnostic_updater", but CMake did not find one.
+[1.428s] 
+[1.428s]   Could not find a package configuration file provided by
+[1.428s]   "diagnostic_updater" with any of the following names:
+[1.428s] 
+[1.428s]     diagnostic_updaterConfig.cmake
+[1.428s]     diagnostic_updater-config.cmake
+[1.428s] 
+[1.428s]   Add the installation prefix of "diagnostic_updater" to CMAKE_PREFIX_PATH or
+[1.428s]   set "diagnostic_updater_DIR" to a directory containing one of the above
+[1.428s]   files.  If "diagnostic_updater" provides a separate development package or
+[1.428s]   SDK, be sure it has been installed.
+[1.429s] 
+[1.429s] [0m
+[1.429s] -- Configuring incomplete, errors occurred!
+[1.429s] See also "/home/duang/Code/pcl/ros2_rs/build/realsense2_camera/CMakeFiles/CMakeOutput.log".
+[1.434s] Invoked command in '/home/duang/Code/pcl/ros2_rs/build/realsense2_camera' returned '1': AMENT_PREFIX_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/duang/Code/pcl/ros2_rs/src/realsense-ros/realsense2_camera -DCMAKE_INSTALL_PREFIX=/home/duang/Code/pcl/ros2_rs/install/realsense2_camera
